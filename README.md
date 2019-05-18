@@ -7,4 +7,6 @@ este pryecto esta chido
 ### Costos 
 Material | Costo | Tiempo
 ---------|-------|--------
-Laptop     24884  12hr
+Laptop   | 24884 | 12hr
+---------|-------|--------
+cosa     |373    |3hr
