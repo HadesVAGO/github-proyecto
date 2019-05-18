@@ -3,7 +3,7 @@ este pryecto esta chido
 
 ## Que abarca
 que los jovenes planten arboles
-* [ ] niños
+* [x] niños
 * [ ] jovenes
 
 ### Que tecnologias estamos utilizando
