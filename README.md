@@ -1,4 +1,4 @@
-# Proyecto omom
+# Proyecto omom 💥
 este pryecto esta chido
 
 ## Que abarca
