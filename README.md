@@ -8,5 +8,4 @@ este pryecto esta chido
 Material | Costo | Tiempo
 ---------|-------|--------
 Laptop   | 24884 | 12hr
----------|-------|--------
 cosa     |373    |3hr
