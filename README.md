@@ -1,7 +1,7 @@
 ![GitHub Logo](https://comps.canstockphoto.es/logotipo-vector-%C3%A1rbol-clip-art-vectorial_csp33457760.jpg)
 
 # Proyecto omom 💥
-este pryecto esta chido
+**este pryecto esta chido**
 
 ## Que abarca
 que los jovenes planten arboles
